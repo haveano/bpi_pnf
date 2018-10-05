@@ -57,7 +57,7 @@ TRESC_MAIL4="Zmienil sie sygnal Buy/Sell dla BPI z Buy na Sell lub z Sell na Buy
 SUB_MAIL5="Zmienil sie sygnal Buy/Sell dla BPI TREND !!!"
 TRESC_MAIL5="Zmienil sie sygnal dla BPI TREND (TREND, nie samo BPI!!!) z Buy na Sell lub z Sell na Buy. Najnowszy sygnal jest w zał."
 
-sender1=root@katkat.tk
+sender1=wstawic@adres
 receiver1=@gmail.com
 
 
