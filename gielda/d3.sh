@@ -75,8 +75,8 @@ TRESC_MAIL4="Plik ls_curr_spolki.txt.diff ma rozmiar wikeszy niz zero. To znaczy
 SUB_MAIL5="Plik ls_curr_isin.txt.diff ma rozmiar wikeszy niz zero"
 TRESC_MAIL5="Plik ls_curr_isin.txt.diff ma rozmiar wikeszy niz zero. To znaczy, że zmieniła sie liczba spólek (nowa spółka lub usunieta)."
 
-sender1=root@katkat.tk
-receiver1=cezary.wysocki+notowania@gmail.com
+sender1=wstawic@adres
+receiver1=@gmail.com
 
 INF1_L1="----2--ls_curr_spolki.txt.diff"
 INF1_L2="----2--Plik ls_curr_spolki.txt.diff ma rozmiar wikeszy niz zero. To znaczy, że zmieniła sie liczba spólek (nowa spółka lub usunięta) lub spółka zmieniła nazwę.\n----2--Jesli zmienila sie tez liczba ISIN to zmieniła sie liczba spółek. Jesli nie to pewnie spółka zmieniła nazwę (przykład: Qumak-Sekom -> Qumak)."
