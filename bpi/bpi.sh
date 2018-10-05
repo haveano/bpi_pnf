@@ -58,7 +58,7 @@ SUB_MAIL5="Zmienil sie sygnal Buy/Sell dla BPI TREND !!!"
 TRESC_MAIL5="Zmienil sie sygnal dla BPI TREND (TREND, nie samo BPI!!!) z Buy na Sell lub z Sell na Buy. Najnowszy sygnal jest w zał."
 
 sender1=root@katkat.tk
-receiver1=cezary.wysocki+notowania@gmail.com
+receiver1=@gmail.com
 
 
 KOMUNIKAT1="$0: wywołanie skryptu: ./bpi.sh (normal|2proc) (close|high-low) (sendemail|notsendemail) (first|notfirst)"
